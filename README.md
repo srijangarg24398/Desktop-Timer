@@ -1,6 +1,6 @@
 # NgElectron
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+## Get compiled zip of app on [Electron Timer](https://drive.google.com/open?id=1KCKozcnwwEuD6yOKd66hAdHGan63NkCg)
 
 ## Development server
 
@@ -31,9 +31,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 `npm i electron-packager -g`
 `npm i electron-packager -D`
 
-# For Windows
+### For Windows
 `electron-packager . --platform=win32`
-# For MacOs
+### For MacOs
 `electron-packager . --platform=darwin`
-# For Linux
+### For Linux
 `electron-packager . --platform=linux`
