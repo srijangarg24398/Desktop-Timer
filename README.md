@@ -1,6 +1,8 @@
 # NgElectron
 
-## Get compiled zip of app on [Electron Timer](https://drive.google.com/open?id=1KCKozcnwwEuD6yOKd66hAdHGan63NkCg)
+## Get compiled zip of app on 
+[Electron Timer Linux 32 bit](https://drive.google.com/open?id=1KCKozcnwwEuD6yOKd66hAdHGan63NkCg)
+[Electron Timer Linux 64 bit](https://drive.google.com/open?id=1xBHGc8p4E3U0QBqd6wk4O5EJx1uh5X1U)
 
 ## Development server
 
